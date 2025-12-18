@@ -1,46 +1,47 @@
 # Feature List
+
 - Devo Tracking
-    - Streak
-    - Log a new Devo
-        - Date, consider times
-        - Passage
-        - SOAP structure?
-        - How are you feeling
-    - Missed devo
-        - reason and accountability
-    - Devo calendar tracking
-        - Heatmap
-- Prayer Journal
-    - Requests
-        - Private/Public/specific group
-    - Logging prayers
-        - Topic
-        - Answered?
-- Community
-    - Small Groups
-        - Sub small groups: guys/girls etc.
-        - Small group social planning
-        - Yearly goals
-        - Devo reminder
-    - 360 as a whole
-    - Messaging?
-    - Sharing devo takeaways
-    - 360 calendar, announcements etc.
-        - Date
-        - Cost
-        - Location
-        - information
-        - May want to be more targeted
-        - Signup
-        - Link for gc
-    - Serving
-        - Small group leaders
-        - Cooking team
-            - Recipes
-        - Worship team
-- Account management
-    - email?
-    - security
-- Bible study logging
+  - Streak
+  - Log a new Devo
+    - Date, consider times
     - Passage
-    - Key messages
+    - SOAP structure?
+    - How are you feeling
+  - Missed devo
+    - reason and accountability
+  - Devo calendar tracking
+    - Heatmap
+- Prayer Journal
+  - Requests
+    - Private/Public/specific group
+  - Logging prayers
+    - Topic
+    - Answered?
+- Community
+  - Small Groups
+    - Sub small groups: guys/girls etc.
+    - Small group social planning
+    - Yearly goals
+    - Devo reminder
+  - 360 as a whole
+  - Messaging?
+  - Sharing devo takeaways
+  - 360 calendar, announcements etc.
+    - Date
+    - Cost
+    - Location
+    - information
+    - May want to be more targeted
+    - Signup
+    - Link for gc
+  - Serving
+    - Small group leaders
+    - Cooking team
+      - Recipes
+    - Worship team
+- Account management
+  - email?
+  - security
+- Bible study logging
+  - Passage
+  - Key messages
