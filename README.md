@@ -17,7 +17,7 @@
   - Logging prayers
     - Topic
     - Answered?
-- Community
+- Social
   - Small Groups
     - Sub small groups: guys/girls etc.
     - Small group social planning
